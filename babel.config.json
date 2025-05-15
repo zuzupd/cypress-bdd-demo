@@ -1,0 +1,9 @@
+{
+  "sourceType": "unambiguous",
+  "presets": [
+    [
+      "@babel/preset-env",
+      { "modules": "commonjs" }
+    ]
+  ]
+}
